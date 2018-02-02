@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">teacher</string>
+
+    <array name="age">
+        <item>السن</item>
+        <item>"10"</item>
+        <item>"11"</item>
+        <item>"12"</item>
+        <item>"13"</item>
+    </array>
+
+    <array name="gender">
+        <item>النوع</item>
+        <item>ذكر</item>
+        <item>أنثى</item>
+    </array>
+
+    <array name="country">
+        <item>الدولة</item>
+        <item>مصر</item>
+        <item>السعودية</item>
+    </array>
+
+    <array name="city">
+        <item>المدينة</item>
+        <item>القاهرة</item>
+    </array>
+
+    <array name="stage">
+        <item>المرحلة الدراسية</item>
+        <item>الصف الأول</item>
+        <item>الصف الثانى</item>
+    </array>
+
+    <array name="specialization">
+        <item>التخصص</item>
+        <item>لغة عربية</item>
+        <item>رياضيات</item>
+    </array>
+
+    <array name="experience">
+        <item>الخبرة</item>
+        <item>سنة</item>
+        <item>سنتين</item>
+    </array>
+
+
+    <array name="nationality">
+        <item>الجنسية</item>
+        <item>مصرى</item>
+        <item>سعودى</item>
+    </array>
+
+    <array name="mech">
+        <item>طريقة التدريس</item>
+        <item>اونلاين</item>
+    </array>
+</resources>
